@@ -4,6 +4,8 @@ Aplicação simples em HTML onde recebe o ano de nascimento e sexo do usuário i
 
 #Exercício baseado no curso JS do Professor Guanabara https://www.cursoemvideo.com/
 
+LINK: https://365rafael.github.io/verificaIdade/
+
 #Prints:
 
 ![image](https://user-images.githubusercontent.com/97065934/161177077-1ee600a8-daa7-4518-94a6-be1afed031e2.png)
